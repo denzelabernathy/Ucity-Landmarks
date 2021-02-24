@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Forest Park",
+        "category": "Parks",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "id": 1,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -90.2833322,
+            "latitude": 38.6333308
+        },
+        "description": "This is a park.",
+        "imageName": "ForestParkForever"
+    },
+    {
+        "name": "Saint Louis Zoo",
+        "category": "Entertainment",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "id": 2,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -90.290,
+            "latitude": 38.635
+        },
+        "description": "This is a zoo.",
+        "imageName": "SaintLouisZoo"
+    },
+    {
+        "name": "Saint Louis Art Museum",
+        "category": "Museum",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "id": 3,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -90.294444,
+            "latitude": 38.639444
+        },
+        "description": "This is an art museum.",
+        "imageName": "SaintLouisArtMuseum"
+    },
+    {
+        "name": "Missouri History Museum",
+        "category": "Museum",
+        "city": "St. Louis",
+        "state": "Missouri",
+        "id": 4,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -90.287927,
+            "latitude": 38.645252
+        },
+        "description": "This is a history museum.",
+        "imageName": "MissouriHistoryMuseum"
+    },
+    {
+        "name": "Saint Louis Science Center",
+        "category": "Entertainment",
+        "city": "St. Louis",
+        "state": "Missorui",
+        "id": 5,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -90.2708,
+            "latitude": 38.6289
+        },
+        "description": "This is a science center and planetarium.",
+        "imageName": "SaintLouisScienceCenter"
+    }
+]
