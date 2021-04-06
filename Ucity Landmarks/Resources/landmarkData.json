@@ -73,5 +73,20 @@
         },
         "description": "This is a science center and planetarium.",
         "imageName": "SaintLouisScienceCenter"
+    },
+    {
+        "name": "The Loop",
+        "category": "Culture",
+        "city": "St. Louis",
+        "state": "Missorui",
+        "id": 6,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -90.3015837937,
+            "latitude": 38.6534323863
+        },
+        "description": "This is a an entertainment, cultural and restaurant district.",
+        "imageName": "DelmarLoop"
     }
 ]
