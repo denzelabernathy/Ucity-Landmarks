@@ -13,8 +13,10 @@ struct Landkmark: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
     var category: String
+    var city: String
     var state: String
     var description: String
+    
  
     private var imageName: String
     var image: Image {
