@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "SaintLouisScienceCenter.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "SaintLouisScienceCenter.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },

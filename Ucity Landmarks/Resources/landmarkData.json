@@ -4,14 +4,14 @@
         "category": "Parks",
         "city": "St. Louis",
         "state": "Missouri",
-        "id": 1,
+        "id": 1001,
         "isFeatured": true,
         "isFavorite": true,
         "coordinates": {
             "longitude": -90.2833322,
             "latitude": 38.6333308
         },
-        "description": "This is a park.",
+        "description": "Forest Park is a public park in western St. Louis, Missouri. It is a prominent civic center and covers 1,326 acres. Opened in 1876, more than a decade after its proposal, the park has hosted several significant events, including the Louisiana Purchase Exposition of 1904 and the 1904 Summer Olympics.",
         "imageName": "ForestParkForever"
     },
     {
@@ -19,14 +19,14 @@
         "category": "Entertainment",
         "city": "St. Louis",
         "state": "Missouri",
-        "id": 2,
+        "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
             "longitude": -90.290,
             "latitude": 38.635
         },
-        "description": "This is a zoo.",
+        "description": "The Saint Louis Zoological Park is a zoo in Forest Park, St. Louis, Missouri. It is recognized as a leading zoo in animal management, research, conservation, and education. The zoo is accredited by the Association of Zoos and Aquariums.",
         "imageName": "SaintLouisZoo"
     },
     {
@@ -34,14 +34,14 @@
         "category": "Museum",
         "city": "St. Louis",
         "state": "Missouri",
-        "id": 3,
+        "id": 1003,
         "isFeatured": false,
         "isFavorite": true,
         "coordinates": {
             "longitude": -90.294444,
             "latitude": 38.639444
         },
-        "description": "This is an art museum.",
+        "description": "The Saint Louis Art Museum is one of the principal U.S. art museums, with paintings, sculptures, cultural objects, and ancient masterpieces from all corners of the world. Its three-story building stands in Forest Park in St. Louis, Missouri, where it is visited by up to a half million people every year.",
         "imageName": "SaintLouisArtMuseum"
     },
     {
@@ -49,44 +49,44 @@
         "category": "Museum",
         "city": "St. Louis",
         "state": "Missouri",
-        "id": 4,
+        "id": 1004,
         "isFeatured": true,
         "isFavorite": true,
         "coordinates": {
             "longitude": -90.287927,
             "latitude": 38.645252
         },
-        "description": "This is a history museum.",
+        "description": "The Missouri History Museum in Forest Park, St. Louis, Missouri, showcases Missouri history. It is operated by the Missouri Historical Society, which was founded in 1866. The main galleries of the museum are free through a public subsidy by the Metropolitan Zoological Park and Museum District.",
         "imageName": "MissouriHistoryMuseum"
     },
     {
         "name": "Saint Louis Science Center",
         "category": "Entertainment",
         "city": "St. Louis",
-        "state": "Missorui",
-        "id": 5,
+        "state": "Missouri",
+        "id": 1005,
         "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "longitude": -90.2708,
             "latitude": 38.6289
         },
-        "description": "This is a science center and planetarium.",
+        "description": "The Saint Louis Science Center, founded as a planetarium in 1963, is a collection of buildings including a science museum and planetarium in St. Louis, Missouri, on the southeastern corner of Forest Park.",
         "imageName": "SaintLouisScienceCenter"
     },
     {
         "name": "The Loop",
         "category": "Culture",
         "city": "St. Louis",
-        "state": "Missorui",
-        "id": 6,
+        "state": "Missouri",
+        "id": 1006,
         "isFeatured": true,
         "isFavorite": true,
         "coordinates": {
             "longitude": -90.3015837937,
             "latitude": 38.6534323863
         },
-        "description": "This is a an entertainment, cultural and restaurant district.",
+        "description": "The Delmar Loop is a buzzing entertainment and dining hub with an eclectic mix of noodle bars, BBQ restaurants, Korean and Mexican eateries, cocktail lounges and pubs lining Delmar Boulevard. Well-known locals with stars on the St. Louis Walk of Fame include Maya Angelou and Betty Grable, as well as Chuck Berry, whose statue is nearby. Music venues like the Pageant and Delmar Hall stage rock, roots and indie gigs.",
         "imageName": "DelmarLoop"
     }
 ]

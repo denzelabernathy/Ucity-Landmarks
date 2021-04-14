@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "DelmarLoop.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "DelmarLoop.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
