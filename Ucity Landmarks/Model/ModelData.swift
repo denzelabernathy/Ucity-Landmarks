@@ -6,8 +6,11 @@ Storage for model data.
 */
 
 import Foundation
+import Combine
 
-var landmarks: [Landkmark] = load("landmarkData.json")
+final class ModelData: ObservableObject{
+   @Published var landmarks: [Landkmark] = load("landmarkData.json")
+}
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data
