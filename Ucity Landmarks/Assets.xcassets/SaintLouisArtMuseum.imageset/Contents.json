@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "SaintLouisArtMuseum.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "SaintLouisArtMuseum.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },

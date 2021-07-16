@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct Ucity_LandmarksApp: App {
+    @StateObject private var modelData = ModelData()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(modelData)
         }
     }
 }
